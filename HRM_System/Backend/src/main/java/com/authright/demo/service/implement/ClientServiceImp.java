@@ -12,7 +12,7 @@ import java.util.*;
 public class ClientServiceImp implements ClientService {
 
     @Autowired
-    private ClientRepository clientRepository;
+      private ClientRepository clientRepository;
 
     @Override
     public Client addClient(Client client) {

@@ -1,7 +1,6 @@
 package com.authright.demo.controller;
 
 import com.authright.demo.entity.WeekTime;
-import com.authright.demo.repository.WeekTimeRepository;
 import com.authright.demo.service.WeekTimeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
